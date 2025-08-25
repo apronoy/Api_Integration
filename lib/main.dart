@@ -5,7 +5,7 @@ import 'package:my_bloc_work/data/services/get_it.dart';
 import 'package:my_bloc_work/screens/loginScreen/loginPage.dart';
 
 void main() {
-  // diclear with getit method .. 
+  // diclear with getit method ..
   setUpGetIT();
   runApp(const MyApp());
 }
