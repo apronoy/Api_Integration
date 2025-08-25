@@ -26,3 +26,6 @@ This app allows users to log in with an API (POST request) and then displays the
 4. REST API (Backend integration)
 
 ## screenshots :
+<img width="496" height="566" alt="Image" src="https://github.com/user-attachments/assets/d1400ac9-82f4-463d-8ef2-72127ecca922" />
+<br>
+<img width="499" height="568" alt="Image" src="https://github.com/user-attachments/assets/5e3f8ca8-037b-4180-a013-c79b7ee12f78" />
