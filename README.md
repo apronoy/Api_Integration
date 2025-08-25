@@ -1,16 +1,28 @@
-# my_bloc_work
+# API Integration App
 
-A new Flutter project.
+A simple Flutter app that demonstrates API integration using the BLoC state management pattern.
+This app allows users to log in with an API (POST request) and then displays their name and age (GET request) fetched from the backend.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. Login with API (POST request)
 
-A few resources to get you started if this is your first Flutter project:
+2. Fetch user profile (GET request)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Display user name & age on the screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. State management with BLoC
+
+5. Clean architecture & error handling
+
+## Tech Stack
+
+1. Flutter (Frontend UI)
+
+2. Dart (Programming language)
+
+3. BLoC (Business Logic Component for state management)
+
+4. REST API (Backend integration)
+
+## screenshots :
